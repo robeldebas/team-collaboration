@@ -43,7 +43,7 @@
     height: calc(80% / 6);
     font-size: 1.5em;
     background-color: #be9480;
-    border: none;
+    border-bottom: #818f30;
     outline: none;
     cursor: pointer;
     transition: background-color 0.2s ease-in-out;
