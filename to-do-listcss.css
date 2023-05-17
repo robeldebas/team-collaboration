@@ -44,6 +44,21 @@ form {
     align-items: center;
     margin-bottom: 10px;
    }
+ 
+   button[type="submit"]:hover, button:hover {
+    background-color: #3e8e41;
+   }
+   
+   ul {
+    padding: 0;
+   }
+   
+   li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+   }
+
 
    
 
