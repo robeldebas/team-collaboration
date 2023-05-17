@@ -36,8 +36,8 @@ const quizArray = [
     {
         id: "3",
         question: "What do you call a computer on a network that requests files from another computer?",
-        options: ["A client", "A host", "A router", "A web server"],
-        correct: "A client",
+        options: ["client", " host", "router", "web server"],
+        correct: " client",
     },
     {
         id: "4",
