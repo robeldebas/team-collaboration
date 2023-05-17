@@ -1,4 +1,4 @@
-<!--this is  css scissore game-->
+
 body {
     font-family: Arial, sans-serif;
    }
@@ -67,7 +67,7 @@ body {
    #restartBtn {
     display: none;
     background-color: #555;
-    color: white;
+    color: green;
     padding: 10px 20px;
     border-radius: 4px;
     cursor: pointer;
