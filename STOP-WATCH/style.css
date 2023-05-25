@@ -53,9 +53,11 @@ h1 {
 }
 
 #stop {
-	background-color: #0e85fc;
+	background-color: #c91400;
+	
 }
 
 #reset {
-	background-color: #c91400;
+	background-color: #0e85fc;
+	
 }
